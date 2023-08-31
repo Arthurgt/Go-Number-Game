@@ -1,1 +1,1 @@
-# Go-Number-Game
+# Go-Numbers-Game
